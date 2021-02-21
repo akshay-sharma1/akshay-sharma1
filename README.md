@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a sophomore studying computer science at the University of Pennsylvania. I'm interested in software dev, data science, and design.
+
+Reach out to me at my email (aksharma [at] seas.upenn.edu) if you want to chat!
